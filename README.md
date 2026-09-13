@@ -10,7 +10,7 @@ three main operations:
 ## Project Structure
 
 ```text
-project/
+CSV_Data_Toolkit/
 ├── codes/
 │   ├── main.py
 │   ├── c1.py
@@ -145,7 +145,7 @@ python main.py --version
 Current version:
 
 ```text
-1.0.0
+1.0.1
 ```
 
 ## How It Works

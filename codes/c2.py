@@ -14,6 +14,8 @@ def line_plot (path_f):
 
         plt.plot(df[x],df[y])
         plt.show()
-    except:
-        print('unknown prompt')
+
+         
+    except KeyError :
+        print('col is not defind')
     

@@ -16,5 +16,6 @@ def bar_plot(path_f):
 
         plt.bar(df[label], df[data])
         plt.show()
-    except:
-        print("unknown prompt")
+
+    except KeyError :
+        print('col is not defind')
