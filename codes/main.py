@@ -4,9 +4,9 @@ import c1
 import c2
 import c3
 try:
-    if len(sys.argv) == 0:
+    if len(sys.argv) == 1:
         print('No commend enterd. use --help to see How use this software')
-    elif len (sys.argv) == 1:
+    elif len (sys.argv) == 2:
         print('You shuld enter tow commends.see --help for more information')
     elif sys.argv[1] == "group":
         df=(c1.group(sys.argv[2]))# type: ignore
