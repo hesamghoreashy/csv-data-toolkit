@@ -32,6 +32,10 @@ The project uses:
 - Python
 - pandas
 - matplotlib
+  
+Clone the repository:
+
+git clone https://github.com/hesamghoreashy/csv-data-toolkit.git
 
 Install the dependencies with:
 
