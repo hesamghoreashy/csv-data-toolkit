@@ -176,6 +176,9 @@ CSV file, provide its path as the command-line argument.
 For the built-in examples, the program expects the CSV files to be available
 inside the project's `datas` directory.
 
+## Cross-platform
+Run this program in windows or Linux or macOS
+
 ## Author
 
 Hesam Ghoreashy
