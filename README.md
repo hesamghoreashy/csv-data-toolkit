@@ -41,9 +41,9 @@ Install the dependencies with:
 pip install -r requirements.txt
 ```
 ## Clone the repository:
-
+```bash
 git clone https://github.com/hesamghoreashy/csv-data-toolkit.git
-
+```
 ## Usage
 
 Run the program from the `codes` directory:
