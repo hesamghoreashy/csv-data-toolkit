@@ -33,16 +33,14 @@ The project uses:
 - pandas
 - matplotlib
   
-Clone the repository:
 
-git clone https://github.com/hesamghoreashy/csv-data-toolkit.git
 
 Install the dependencies with:
 
 ```bash
 pip install -r requirements.txt
 ```
-##Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/hesamghoreashy/csv-data-toolkit.git
 
